@@ -1,5 +1,5 @@
 # Modeling-Microbial-Interactions
-Code from my Thesis! 
+Code from my Thesis! Adding to this repo as I finalize the code and analysis for a manuscript :) 
 
 ## Project Description
 
